@@ -11,7 +11,7 @@ As every good geek, he is passionate for games, animes and HQ's (Sandman is my m
 
 Here are some specs about me:
 
-:computer: I'm a front-end developer with good xp with Html, Css and Js <br>
+:computer: I'm a front-end developer with good xp in Html, Css and Js <br>
 :rocket: Currently I'm evolving my skills at Rocketseat Bootcamp <br>
 :books: Studying Node, React and React Native <br>
 :mailbox: Anything, send me an email: igorcantelmo@gmail.com <br>
