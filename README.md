@@ -18,3 +18,5 @@ Here are some specs about me:
 :pager: Or discord me: igorbrands#8493<br>
 
 <h4> See you space cowboy :milky_way: </h4>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbrands&layout=compact&theme=algolia)](https://github.com/igorbrands/github-readme-stats)
