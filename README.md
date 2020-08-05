@@ -17,6 +17,8 @@ Here are some specs about me:
 :mailbox: Anything, send me an email: igorcantelmo@gmail.com <br>
 :pager: Or discord me: igorbrands#8493<br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbrands&layout=compact&theme=algolia)](https://github.com/igorbrands/github-readme-stats)
+
 <h4> See you space cowboy :milky_way: </h4>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbrands&layout=compact&theme=algolia)](https://github.com/igorbrands/github-readme-stats)
+
