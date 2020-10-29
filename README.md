@@ -12,7 +12,7 @@ As every good geek, he is passionate for games, animes and HQ's (Sandman is my m
 Here are some specs about me:
 
 :computer: I'm a front-end developer with good xp in Html, Css and Js <br>
-:rocket: Currently I'm evolving my in Node, React and React Native <br>
+:rocket: Currently I'm evolving my skills in Node, React and React Native <br>
 :books: Studying and building things with Next.js and headless CMS <br>
 :mailbox: Anything, send me an email: igorcantelmo@gmail.com <br>
 :pager: Or discord me: igorbrands#8493<br>
