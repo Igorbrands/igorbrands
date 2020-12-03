@@ -7,8 +7,8 @@ I love movies, music, games and HQ's.
 
 Here are some specs about me:
 
-:computer: I'm a front-end developer with good xp in Html, Css and Js <br>
-:rocket: Currently I'm evolving my skills in Node, React and React Native <br>
+:computer: Front-end developer with good xp in Html, Css and Js <br>
+:rocket: Currently evolving my skills in Node, React and React Native <br>
 :books: Studying and building things with Next.js and headless CMS <br>
 :mailbox: Anything, send me an email: igorcantelmo@gmail.com <br>
 :pager: Or discord me: igorbrands#8493<br>
