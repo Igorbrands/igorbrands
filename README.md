@@ -1,5 +1,11 @@
 <h2> Welcome to my github profile 👋 </h2>
 
+![Favorite Tools:](https://img.shields.io/badge/favorite%20stack:%20-%23000.svg?&style=for-the-badge) 
+![NodeJs](https://img.shields.io/badge/node%20-39933.svg?&style=for-the-badge&logo=node.js&logoColor=black) 
+![React](https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black) 
+![Styled Components](https://img.shields.io/badge/styled%20components%20-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)<br>
+![To Learn:](https://img.shields.io/badge/to%20learn:%20-%23000.svg?&style=for-the-badge)
+![Redux](https://img.shields.io/badge/redux%20-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white)
 
 I'm a 27 years old brazilian developer, undergrad student of Computer Science at UERJ, Rio de Janeiro. 
 I love movies, music, games and HQ's.
@@ -10,10 +16,11 @@ Here are some specs about me:
 :computer: Front-end developer with good xp in Html, Css and Js <br>
 :rocket: Currently evolving my skills in Node, React and React Native <br>
 :books: Studying and building things with Next.js and headless CMS <br>
-:mailbox: Anything, send me an email: igorcantelmo@gmail.com <br>
+:mailbox: Anything, send me an <a href="mailto:igorcantelmo@gmail.com">e-mail</a>  <br>
 :pager: Or discord me: igorbrands#8493<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbrands&layout=compact&theme=algolia)](https://github.com/igorbrands/github-readme-stats)
+<img align="right" height="200" src="./coderoom.gif"/>
 
 <h4> See you space cowboy :milky_way: </h4>
 
