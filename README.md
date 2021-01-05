@@ -22,6 +22,6 @@ Here are some specs about me:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbrands&layout=compact&theme=algolia)](https://github.com/igorbrands/github-readme-stats)
 <img align="right" height="200" style="border:1px solid black; border-radius:5px" src="./coderoom.gif"/>
 
-<h4> See you space cowboy :milky_way: </h4>
+<h4> See you, space cowboy :milky_way: </h4>
 
 
