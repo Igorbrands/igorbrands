@@ -1,4 +1,6 @@
-<h2> Welcome to my github profile 👋 </h2>
+<h1> Hi | Oi  Hola | Ciao | Salut | Nǐ hǎo | Kon'nichiwa </h1>
+ 
+<h2> Welcome to my GH profile 👋 </h2>
 
 ![Favorite Tools:](https://img.shields.io/badge/favorite%20stack:%20-%23000.svg?&style=for-the-badge) 
 ![NodeJs](https://img.shields.io/badge/node%20-39933.svg?&style=for-the-badge&logo=node.js&logoColor=black) 
