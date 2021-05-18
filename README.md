@@ -22,8 +22,8 @@ Here are some specs about me:
 :mailbox: Anything, send me an <a href="mailto:igorcantelmo@gmail.com">e-mail</a>  <br>
 :pager: Or discord me: igorbrands#8493<br>
 
-[![Gh Stats](https://github-readme-stats.vercel.app/api?username=igorbrands&show_icons=true&hide_border=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbrands&layout=compact&theme=algolia)](https://github.com/igorbrands/github-readme-stats)
+![Igorbrands Gh Stats](https://github-readme-stats.vercel.app/api?username=igorbrands&show_icons=true&hide_border=true&theme=algolia&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbrands&layout=compact&theme=algolia)](https://github.com/igorbrands/github-readme-stats)
 <img align="right" height="200" style="border:1px solid black; border-radius:5px" src="./coderoom.gif"/>
 
 <h4> See you, space cowboy :milky_way: </h4>
