@@ -13,7 +13,7 @@
 ![Three.JS](https://img.shields.io/badge/three.js%20-%23FFFFFF.svg?&style=for-the-badge&logo=three.js&logoColor=black)
 
 I'm a 27 years old brazilian developer, undergrad student of Computer Science at UERJ, Rio de Janeiro. 
-I love movies, music, games and HQ's.
+I love movies, music, games and comic books.
 
 
 Here are some specs about me:
@@ -24,8 +24,9 @@ Here are some specs about me:
 :mailbox: Anything, send me an <a href="mailto:igorcantelmo@gmail.com">e-mail</a>  <br>
 :pager: Or discord me: igorbrands#8493<br>
 
-![Igorbrands Gh Stats](https://github-readme-stats.vercel.app/api?username=igorbrands&show_icons=true&hide_border=true&theme=algolia&count_private=true)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbrands&layout=compact&theme=algolia)](https://github.com/igorbrands)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbrands&layout=compact&theme=algolia)](https://github.com/igorbrands)</br>
+![Igorbrands Gh Stats](https://github-readme-stats.vercel.app/api?username=igorbrands&show_icons=true&hide_border=true&theme=algolia&count_private=true)
+
 <img align="right" height="200" style="border:1px solid black; border-radius:5px" src="./coderoom.gif"/>
 
 <h4> See you, space cowboy :milky_way: </h4>
