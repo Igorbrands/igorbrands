@@ -19,10 +19,9 @@ I love movies, music, games and comic books.
 Here are some specs about me:
 
 :computer: Front-end developer with good xp in Html, Css and Js <br>
-:rocket: Currently evolving my skills in Node, React and React Native <br>
-:books: Studying and building things with Next.js and headless CMS <br>
+:rocket: Currently focused in ReactJS <br>
 :mailbox: Anything, send me an <a href="mailto:igorcantelmo@gmail.com">e-mail</a>  <br>
-:pager: Or discord me: igorbrands#8493<br>
+:pager: Or connect with me at<a href="https://www.linkedin.com/in/igor-cantelmo/">Linkedin</a> <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbrands&layout=compact&theme=algolia)](https://github.com/igorbrands)<img align="right" height="200" style="border:1px solid black; border-radius:5px" src="./coderoom.gif"/></br>
 ![Igorbrands Gh Stats](https://github-readme-stats.vercel.app/api?username=igorbrands&show_icons=true&hide_border=true&theme=algolia&count_private=true)
