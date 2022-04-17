@@ -2,7 +2,7 @@
  
 <h2> Welcome to my GH profile 👋 </h2>
 
-![Favorite Tools:](https://img.shields.io/badge/favorite%20stack:%20-%23000.svg?&style=for-the-badge) 
+![Favorite Tools:](https://img.shields.io/badge/favorite%20tools:%20-%23000.svg?&style=for-the-badge) 
 ![NodeJs](https://img.shields.io/badge/node%20-39933.svg?&style=for-the-badge&logo=node.js&logoColor=black) 
 ![React](https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white) 
@@ -12,14 +12,14 @@
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Three.JS](https://img.shields.io/badge/three.js%20-%23FFFFFF.svg?&style=for-the-badge&logo=three.js&logoColor=black)
 
-I'm a 27 years old brazilian developer, undergrad student of Computer Science at UERJ, Rio de Janeiro. 
+I'm a 28 years old brazilian developer, undergrad student of Computer Science at UERJ, Rio de Janeiro. 
 I love movies, music, games and comic books.
 
 
 Here are some specs about me:
 
 :computer: Front-end developer with good xp in Html, Css and Js <br>
-:rocket: Currently focused in ReactJS <br>
+:rocket: Currently focused in ReactJS environment <br>
 :mailbox: Anything, send me an <a href="mailto:igorcantelmo@gmail.com">e-mail</a>  <br>
 :pager: Or connect with me at <a href="https://www.linkedin.com/in/igor-cantelmo/">Linkedin</a> <br>
 
