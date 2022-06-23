@@ -11,7 +11,6 @@
 ![Redux](https://img.shields.io/badge/redux%20-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)<br>
 ![To Learn:](https://img.shields.io/badge/to%20learn:%20-%23000.svg?&style=for-the-badge)
-
 ![Three.JS](https://img.shields.io/badge/three.js%20-%23FFFFFF.svg?&style=for-the-badge&logo=three.js&logoColor=black)
 
 I'm a 28 years old brazilian developer living at Rio de Janeiro, on the way to becoming a Software Engineer through 42Rio School.
