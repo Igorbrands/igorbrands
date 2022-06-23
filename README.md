@@ -7,7 +7,7 @@
 ![React](https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white) 
 ![Styled Components](https://img.shields.io/badge/styled%20components%20-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
-![SASS]([https://img.shields.io/badge/styled%20components%20-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white](https://img.shields.io/badge/SASS%20-%23DB7093.svg?&style=for-the-badge&logo=sass&logoColor=white))
+![SASS](https://img.shields.io/badge/SASS%20-%23DB7093.svg?&style=for-the-badge&logo=sass&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux%20-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)<br>
 ![To Learn:](https://img.shields.io/badge/to%20learn:%20-%23000.svg?&style=for-the-badge)
