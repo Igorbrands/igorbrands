@@ -1,4 +1,4 @@
-<h1> Hi | Oi | Hola | Ciao </h1>
+<h1> Hi | Oi | Hola </h1>
  
 <h2> Welcome to my GH profile 👋 </h2>
 
