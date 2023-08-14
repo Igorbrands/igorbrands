@@ -13,17 +13,14 @@
 ![To Learn:](https://img.shields.io/badge/to%20learn:%20-%23000.svg?&style=for-the-badge)
 ![Three.JS](https://img.shields.io/badge/three.js%20-%23FFFFFF.svg?&style=for-the-badge&logo=three.js&logoColor=black)
 
-I'm a 29 years old brazilian developer living at Rio de Janeiro, on the way to becoming a Software Engineer through 42Rio School.
-I love movies, music, games and comic books.
+Brazilian developer based in Rio de Janeiro. Passionate about movies, music, games, and comic books.
 
-Here are some specs about me:
+:computer: Front-end enthusiast with solid experience in HTML, CSS, and JavaScript.
+:rocket: Currently diving deep into the ReactJS ecosystem.
+:mailbox: Feel free to reach out via <a href="mailto:igorcantelmo@gmail.com">email</a>.
+:pager: Let's connect on <a href="https://www.linkedin.com/in/igor-cantelmo/">LinkedIn</a>!
 
-:computer: Front-end developer with good xp in Html, Css and Js <br>
-:rocket: Currently focused in ReactJS environment <br>
-:mailbox: Anything, send me an <a href="mailto:igorcantelmo@gmail.com">e-mail</a>  <br>
-:pager: Or connect with me at <a href="https://www.linkedin.com/in/igor-cantelmo/">Linkedin</a> <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbrands&layout=compact&theme=algolia)](https://github.com/igorbrands)<img align="right" height="200" style="border:1px solid black; border-radius:5px" src="./coderoom.gif"/></br>
+<img align="left" height="200" style="border:1px solid black; border-radius:5px" src="./coderoom.gif"/></br>
 
 <h4> See you, space cowboy :milky_way: </h4>
 
