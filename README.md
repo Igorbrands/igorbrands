@@ -21,9 +21,10 @@ Brazilian developer based in Rio de Janeiro. Passionate about movies, music, gam
 :pager: Let's connect on <a href="https://www.linkedin.com/in/igor-cantelmo/">LinkedIn</a>!<br>
 
 
-<img align="left" height="200" style="border:1px solid black; border-radius:5px;" src="./coderoom.gif"/> 
 
+
+<h4>See you, space cowboy :milky_way: </h4>
 </br>
-##### See you, space cowboy :milky_way:
-
+----------
+<img align="left" height="200" style="border:1px solid black; border-radius:5px;" src="./coderoom.gif"/> 
 
