@@ -8,7 +8,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white) 
 ![Styled Components](https://img.shields.io/badge/styled%20components%20-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS%20-%23DB7093.svg?&style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind%20-%23DB7093.svg?&style=for-the-badge&logo=tailwind&logoColor=white)
+![Tailwind]([https://img.shields.io/badge/Tailwind%20-%23DB7093.svg?&style=for-the-badge&logo=tailwind&logoColor=white](https://img.shields.io/badge/tailwindcss%20-%d4d406.svg?&style=for-the-badge&color=06B6D4&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux%20-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)<br>
 
