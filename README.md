@@ -15,8 +15,8 @@
 
 Brazilian developer based in Rio de Janeiro. Passionate about movies, music, games, and comic books.
 
-:computer: Front-end enthusiast with solid experience in HTML, CSS, and JavaScript.<br>
-:rocket: Currently diving deep into the ReactJS ecosystem.<br>
+:computer: Front-end enthusiast with solid experience in HTML, CSS, JavaScript and ReactJS.<br>
+:rocket: Currently diving deep into the Kotlin ecosystem.<br>
 :mailbox: Feel free to reach out via <a href="mailto:igorcantelmo@gmail.com">email</a>.<br>
 :pager: Let's connect on <a href="https://www.linkedin.com/in/igor-cantelmo/">LinkedIn</a>!<br>
 
