@@ -1,29 +1,36 @@
-<h1> Hi | Oi | Hola </h1>
- 
-<h2> Welcome to my GH profile 👋 </h2>
+# Igor Cantelmo
 
-![Favorite Tools:](https://img.shields.io/badge/favorite%20tools:%20-%23000.svg?&style=for-the-badge) 
-![NodeJs](https://img.shields.io/badge/node%20-39933.svg?&style=for-the-badge&logo=node.js&logoColor=black) 
-![React](https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white) 
-![Styled Components](https://img.shields.io/badge/styled%20components%20-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS%20-%23DB7093.svg?&style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwindcss%20-%d4d406.svg?&style=for-the-badge&color=06B6D4&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/redux%20-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)<br>
+**Mobile & Frontend Engineer** · React Native · TypeScript · E-commerce<br>
+Rio de Janeiro, Brazil
 
+I build mobile apps and storefronts for retail and e-commerce. Since 2024 I've been at [Calindra](https://calindra.com.br), shipping production apps on Eitri, an app-commerce platform used by retail brands in Brazil and abroad.
 
-Brazilian developer based in Rio de Janeiro. Passionate about movies, music, games, and comic books.
+## What I work on
 
-:computer: Front-end enthusiast with solid experience in HTML, CSS, JavaScript and ReactJS.<br>
-:rocket: Currently diving deep into the Kotlin ecosystem.<br>
-:mailbox: Feel free to reach out via <a href="mailto:igorcantelmo@gmail.com">email</a>.<br>
-:pager: Let's connect on <a href="https://www.linkedin.com/in/igor-cantelmo/">LinkedIn</a>!<br>
+- **Mobile apps** with React Native and Eitri: home, catalog, cart and checkout flows
+- **E-commerce integrations** with VTEX: checkout, catalog and deep links (App Links / Universal Links)
+- **Headless CMS** setup with Contentful and VTEX Headless CMS: schemas and content-driven components
+- **API / BFF layer**: integrating and debugging the services behind the apps
 
+Most of this work lives in private client repositories, which is why my contribution graph is busier than my public repo list.
 
+## Before that
 
+- **deco.cx**: e-commerce storefronts with Preact, Deno, Fresh and Tailwind CSS
+- **INTESIS, Toolsty, Zenit Creative**: React, Next.js and TypeScript web apps (an ERP, an online course platform, a travel booking system)
+- **Freelance (2017–2020)**: websites and WooCommerce stores
+- Student at **42 Rio**
 
-<h4>See you, space cowboy :milky_way: </h4>
-</br>
-<img align="left" height="200" style="border:1px solid black; border-radius:5px;" src="./coderoom.gif"/> 
+## Stack
 
+TypeScript · JavaScript · React Native · React · Next.js · Node.js · Tailwind CSS · daisyUI · Zustand · Redux · GraphQL · VTEX · Contentful
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/igor-cantelmo/) · [Email](mailto:igorcantelmo@gmail.com)
+
+Off the clock: movies, music, games and comic books.
+
+<img height="160" src="./coderoom.gif" alt="Pixel art of a dark room full of computer screens"/>
+
+*See you, space cowboy* 🌌
