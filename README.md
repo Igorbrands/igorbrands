@@ -12,15 +12,6 @@ I build mobile apps and storefronts for retail and e-commerce. Since 2024 I've b
 - **Headless CMS** setup with Contentful and VTEX Headless CMS: schemas and content-driven components
 - **API / BFF layer**: integrating and debugging the services behind the apps
 
-Most of this work lives in private client repositories, which is why my contribution graph is busier than my public repo list.
-
-## Before that
-
-- **deco.cx**: e-commerce storefronts with Preact, Deno, Fresh and Tailwind CSS
-- **INTESIS, Toolsty, Zenit Creative**: React, Next.js and TypeScript web apps (an ERP, an online course platform, a travel booking system)
-- **Freelance (2017–2020)**: websites and WooCommerce stores
-- Student at **42 Rio**
-
 ## Stack
 
 TypeScript · JavaScript · React Native · React · Next.js · Node.js · Tailwind CSS · daisyUI · Zustand · Redux · GraphQL · VTEX · Contentful
